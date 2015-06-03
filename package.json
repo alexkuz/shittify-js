@@ -1,0 +1,28 @@
+{
+  "name": "shittify-js",
+  "version": "0.0.1",
+  "description": "So you can honestly say your code is full of shit",
+  "main": "tools/node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkuz/shittify-js.git"
+  },
+  "keywords": [
+    "shit",
+    "uglify"
+  ],
+  "author": "Alexander <alexkuz@gmail.com> (http://kuzya.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkuz/shittify-js/issues"
+  },
+  "homepage": "https://github.com/alexkuz/shittify-js#readme",
+  "dependencies": {
+    "async": "^1.2.0",
+    "uglify-js": "^2.4.23",
+    "yargs": "^3.10.0"
+  }
+}
